@@ -9,7 +9,7 @@ We provide a sample app using Python that you can deploy on App Platform. These 
 
 ### Requirements
 
-* You need a Initializ account. If you don't already have one, you can sign up at [signup](https://www.initializ.io/)
+* You need a Initializ account. If you don't already have one, you can sign up at [signup](https://www.initializ.io/) 
 
 ##  Create an App
 
